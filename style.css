@@ -1,0 +1,19 @@
+body {
+    padding: 0%;
+    background: #191919;   
+}
+
+.conteudo-header {
+    height: 640px;
+}
+
+.navbar .navbar-expand-lg {
+    z-index: 4;
+    background-color: transparent;
+    position: relative;
+}
+
+.navbar .navbar-expand-lg .container-fluid .navbar-brand {
+    color: #fff;
+    margin: 0 auto;
+}
