@@ -62,3 +62,8 @@ footer {
         height: 150px;
     }
 }
+
+.img-jogo-descricao {
+    width: 100%;
+    margin-bottom: 5px;
+}
